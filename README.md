@@ -20,6 +20,20 @@ EchoMate combines cutting-edge technologies to create a comprehensive mental hea
 
 ## Demo Video 
 
+## Usage
+
+1. Click on "Get Started" to begin the onboarding process
+2. Create your profile and share your mental health goals
+3. Start a voice conversation with EchoMate by clicking the microphone button
+4. Use EchoMate for:
+   - Stress management sessions
+   - Sleep improvement techniques
+   - Anxiety reduction exercises
+   - CBT and DBT-based therapy conversations
+   - Guided meditation and mindfulness practices
+   - Tracking your mental health progress over time
+   - Receiving personalized insights based on your interaction patterns
+
 ## Technology Stack
 
 - **Frontend**: React, Next.js, Framer Motion, TailwindCSS
@@ -69,58 +83,3 @@ EchoMate combines cutting-edge technologies to create a comprehensive mental hea
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Usage
-
-1. Click on "Get Started" to begin the onboarding process
-2. Create your profile and share your mental health goals
-3. Start a voice conversation with EchoMate by clicking the microphone button
-4. Use EchoMate for:
-   - Stress management sessions
-   - Sleep improvement techniques
-   - Anxiety reduction exercises
-   - CBT and DBT-based therapy conversations
-   - Guided meditation and mindfulness practices
-   - Tracking your mental health progress over time
-   - Receiving personalized insights based on your interaction patterns
-
-## License
-
-This project is licensed under a dual license:
-- Free for personal use
-- Commercial use requires a license - please contact us for details
-
-See the [LICENSE](LICENSE) file for more information.
-
-## Contributing
-
-We welcome contributions to improve the Kno2gether AI Assistant. Please feel free to submit issues and pull requests.
-
-## License
-
-This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
-
-## About Kno2gether
-
-Kno2gether is a YouTube channel run by Avijit, focused on empowering businesses with AI and automation. 
-
-### AI Powered Ultimate SaaS Development Course
-
-Take your skills to the next level with our comprehensive SaaS development course. Learn how to build, deploy, and scale AI-powered SaaS applications.
-
-[![AI Powered Ultimate SaaS Development Course](https://img.youtube.com/vi/jxDLQfcbGTI/0.jpg)](https://knolabs.biz/upsell-saas-course-2139-9605)
-
-[Enroll in the Course](https://knolabs.biz/upsell-saas-course-2139-9605)
-
-### Stay Connected
-
-- YouTube: [Kno2gether Channel](https://www.youtube.com/@Kno2gether)
-- Website: [Knolabs.biz](https://knolabs.biz)
-
-## Support
-
-For any questions or support, please open an issue or contact us through our [YouTube channel](https://www.youtube.com/@Kno2gether).
-
----
-
-Built with ❤️ by the Kno2gether team
