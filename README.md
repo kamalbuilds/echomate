@@ -18,6 +18,8 @@ EchoMate combines cutting-edge technologies to create a comprehensive mental hea
 - **Privacy-Focused**: Your data and conversations remain private and secure
 - **24/7 Availability**: Access support whenever you need it
 
+## Demo Video 
+
 ## Technology Stack
 
 - **Frontend**: React, Next.js, Framer Motion, TailwindCSS
